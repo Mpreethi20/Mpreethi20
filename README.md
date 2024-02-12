@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mpreethi20
+- 👋 Hi, I’m @preethi Mathari
 - 👀 I’m interested in AI in healthcare
 - 🌱 I’m currently learning statistical machine learning, SVM, and random forest
 - 💞️ I’m looking to collaborate on projects related to AI in healthcare
